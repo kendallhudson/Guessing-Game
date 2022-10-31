@@ -1,0 +1,1 @@
+# ATTENTION INSTRUCTOR: Please don't use this repo to grade as the site is not functioning properly. Instead, please use my repo titled Guessing-Game-10-30-22-v2 (or my netlify link https://amazing-twilight-2e1bc1.netlify.app/). I apologize for any inconvenience or confusion. Thank you.
